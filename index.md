@@ -8,48 +8,48 @@ title: Documentation for Relation Annotation for the RegulaTome corpus
 
 * Complex_formation    
 * Regulation
-  * Positive_regulation  
-  * Negative_regulation
+    * Positive_regulation  
+    * Negative_regulation
 * Regulation_of_gene_expression
-  * Regulation_of_transcription
-  * Regulation_of_translation
+    * Regulation_of_transcription
+    * Regulation_of_translation
 * Regulation_of_degradation
 * Catalysis_of_posttranslational_modification
-      * Catalysis_of_small_protein_conjugation_or_removal
-          * Catalysis_of_small_protein_conjugation
-              * Catalysis_of_Ubiquitination
-              * Catalysis_of_SUMOylation
-              * Catalysis_of_Neddylation
-              * Other_catalysis_of_small_protein_conjugation
-          * Catalysis_of_small_protein_removal
-              * Catalysis_of_Deubiquitination
-              * Catalysis_of_DeSUMOylation
-              * Catalysis_of_Deneddylation
-              * Other_catalysis_of_small_protein_removal
-      * Catalysis_of_phosphoryl_group_conjugation_or_removal
-          * Catalysis_of_Phosphorylation
-          * Catalysis_of_Dephosphorylation
-      * Catalysis_of_other_small_molecule_conjugation_or_removal
-          * Catalysis_of_small_molecule_conjugation
-              * Catalysis_of_Methylation
-              * Catalysis_of_Acylation
-                  * Catalysis_of_Acetylation
-                  * Catalysis_of_Palmitoylation
-                  * Catalysis_of_Myristoylation
-              * Catalysis_of_lipidation
-                  * Catalysis_of_prenylation
-                      * Catalysis_of_farnesylation
-                      * Catalysis_of_geranylgeranylation
-              * Catalysis_of_ADP-ribosylation
-              * Catalysis_of_Glycosylation
-              * Other_catalysis_of_small_molecule_conjugation
-          * Catalysis_of_small_molecule_removal
-              * Catalysis_of_Demethylation
-              * Catalysis_of_Deacylation
-                  * Catalysis_of_Deacetylation
-                  * Catalysis_of_Depalmitoylation
-              * Catalysis_of_Deglycosylation
-              * Other_catalysis_of_small_molecule_removal
+    * Catalysis_of_small_protein_conjugation_or_removal
+        * Catalysis_of_small_protein_conjugation
+            * Catalysis_of_Ubiquitination
+            * Catalysis_of_SUMOylation
+            * Catalysis_of_Neddylation
+            * Other_catalysis_of_small_protein_conjugation
+        * Catalysis_of_small_protein_removal
+            * Catalysis_of_Deubiquitination
+            * Catalysis_of_DeSUMOylation
+            * Catalysis_of_Deneddylation
+            * Other_catalysis_of_small_protein_removal
+    * Catalysis_of_phosphoryl_group_conjugation_or_removal
+        * Catalysis_of_Phosphorylation
+        * Catalysis_of_Dephosphorylation
+    * Catalysis_of_other_small_molecule_conjugation_or_removal
+        * Catalysis_of_small_molecule_conjugation
+            * Catalysis_of_Methylation
+            * Catalysis_of_Acylation
+                * Catalysis_of_Acetylation
+                * Catalysis_of_Palmitoylation
+                * Catalysis_of_Myristoylation
+            * Catalysis_of_lipidation
+                * Catalysis_of_prenylation
+                    * Catalysis_of_farnesylation
+                    * Catalysis_of_geranylgeranylation
+            * Catalysis_of_ADP-ribosylation
+            * Catalysis_of_Glycosylation
+            * Other_catalysis_of_small_molecule_conjugation
+        * Catalysis_of_small_molecule_removal
+            * Catalysis_of_Demethylation
+            * Catalysis_of_Deacylation
+                * Catalysis_of_Deacetylation
+                * Catalysis_of_Depalmitoylation
+            * Catalysis_of_Deglycosylation
+            * Other_catalysis_of_small_molecule_removal
 * Out-of-scope
 
 

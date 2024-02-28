@@ -1,0 +1,29 @@
+# Build settings
+
+source: .
+destination: ./_site
+markdown: kramdown
+# don't change the following; coderay will break the embedded
+# annotations.
+kramdown:
+  enable_coderay: false
+permalinks: pretty
+safe: true
+markdown_ext: md
+
+##############################################################################
+
+# Site settings
+
+name: RegulaTome Annotation Documentation
+homeurl: "https://katnastou.github.io/regulatome-annodoc/"
+editurl: "https://github.com/katnastou/regulatome-annodoc/edit/master"
+issueurl: "https://github.com/katnastou/regulatome-annodoc/issues"
+
+##############################################################################
+
+# Collection settings
+
+collections:
+  entity:
+    output: true
